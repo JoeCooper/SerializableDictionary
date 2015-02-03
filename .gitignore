@@ -1,0 +1,8 @@
+#Autosave files
+*~
+LICENSE.meta
+*.DS_Store
+*.csproj
+*.sln
+*.sln.cache
+*.userprefs
